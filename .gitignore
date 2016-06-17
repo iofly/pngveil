@@ -7,6 +7,17 @@
 *.userosscache
 *.sln.docstates
 
+
+*.exe
+*.dcu
+*.dproj
+*.local
+*.stat
+*.identcache
+*.bmp
+*.png
+*.bat
+
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
